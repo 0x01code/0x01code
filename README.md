@@ -1,4 +1,4 @@
-### Hi there, I'm [0x01code](#https://www.facebook.com/Developer.Thailand.VB.Net) 👋
+### Hi there, I'm [0x01code](https://www.facebook.com/Developer.Thailand.VB.Net) 👋
 
 ## I'm a Developer!!
 
