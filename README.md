@@ -1,56 +1,115 @@
-<h2 align="left">Hi 👋! My name is 0x01code and I'm a Programer, from Thailand</h2>
+# 🐱‍💻 0x01code
 
-###
+```
+   /\_/\  
+  ( o.o ) 
+   > ^ <   ยินดีต้อนรับสู่ดินแดนแห่งโค้ดและความมันส์
+  /|   |\  
+ (_|   |_) 
+```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x01code&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x01code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 👾 เกี่ยวกับพ่อแมวแฮ็กเกอร์
 
-###
+นักล่าบั๊กตัวจิ๋ว | Security Researcher | CTF Player | พัฒนาซอฟต์แวร์มาทำลาย (แล้วก็สร้างใหม่)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vue logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="30" alt="windows11 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-</div>
+```bash
+$ whoami
+> 0x01code - แมวจรที่เดินทางผ่านโลกของ binary, web apps และ network packets
+> ชอบเจาะระบบมากกว่าเจาะกล่องกระดาษ (แต่ก็ชอบทั้ง 2 อยู่ดี)
+```
 
-###
+## 🎯 ทักษะการจู่โจม
 
-<div align="left">
-  <a href="https://www.facebook.com/0x01code">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=0765FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.youtube.com/@0x01code">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.com/invite/EAsd3fMkZd">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+### 🔓 Penetration Testing
+```python
+skills = {
+    'web_security': ['SQL Injection', 'XSS', 'CSRF', 'Authentication Bypass'],
+    'tools': ['Burp Suite', 'sqlmap', 'Metasploit', 'Hydra', 'Frida'],
+    'platforms': ['OWASP Top 10', 'HackTheBox', 'TryHackMe', 'CTF Competitions']
+}
+```
 
-###
+### 💻 Development Arsenal
+```javascript
+const techStack = {
+    backend: ['PHP', 'CodeIgniter', 'Python', 'Node.js'],
+    databases: ['PostgreSQL', 'MongoDB', 'Redis', 'MySQL'],
+    security: ['Vulnerability Assessment', 'Security Research', 'Exploit Development'],
+    misc: ['Linux Administration', 'Automation', 'Load Testing']
+}
+```
+
+## 🏆 ผลงานที่ภูมิใจ
+
+- 🎮 **CTF Hunter**: ผ่านด่านความท้าทายด้าน Web Security, Forensics, Cryptography, Reverse Engineering
+- 🔍 **Bug Bounty**: ค้นหาและรายงานช่องโหว่ต่างๆ
+- 🛡️ **Security Auditor**: ประเมินความปลอดภัยของ Web Applications
+- 🤖 **Automation Freak**: สร้างบอทและเครื่องมืออัตโนมัติเพื่อความสะดวก
+
+## 📊 GitHub Stats
+
+```
+ 🐾 กำลังจับหนูบั๊ก...
+ 🎯 ยิง exploit...
+ ⚡ รวบรวม flag...
+```
+
+## 🔥 โหมดการทำงาน
+
+```
+[████████████████████] 100% - กำลัง hack the planet
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 90% - เขียนโค้ด
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░] 70% - งีบกลางวัน
+[▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░] 50% - เล่นกับเส้น LAN
+```
+
+## 🎨 สไตล์การเขียนโค้ด
+
+```bash
+#!/bin/bash
+# แนวคิด: ถ้าโค้ดทำงาน = magic 🪄
+# ถ้าไม่ทำงาน = ลองอีกที (และอีกที... และอีกที...)
+
+while [ "$bug_found" != "false" ]; do
+    echo "🐱 เจอบั๊กแล้วววว!"
+    patch_it()
+    test_again()
+    if [ "$still_broken" == "true" ]; then
+        cry_a_little()
+        coffee++
+    fi
+done
+```
+
+## 📫 ติดต่อพ่อแมว
+
+```json
+{
+    "status": "🟢 online - พร้อมรับงาน",
+    "interests": ["Security Research", "CTF", "Web Development", "Breaking Things Legally"],
+    "contact": {
+        "github": "@0x01code",
+        "mode": "stealth 😼"
+    }
+}
+```
+
+## 💭 คติประจำใจ
+
+> **"In the world of 1s and 0s, I hunt for the vulnerabilities that hide in the shadows"**
+> 
+> *"ในโลกของเลข 0 กับ 1 ข้าจะตามล่าช่องโหว่ที่แอบซ่อนอยู่ในเงามืด"*
+
+---
+
+```
+  /\_/\  
+ ( ^.^ ) < มีอะไรให้ช่วยไหม? fork ไป star ไป หรือจะมาคุยเรื่อง security ก็ได้นะ!
+  >   <
+```
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0x01code&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
+</p>
+
+<p align="center">⭐ From 0x01code with 🐾</p>
